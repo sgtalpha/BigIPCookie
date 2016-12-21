@@ -66,6 +66,6 @@ port = int(portJoinHex,16)
 ## RESULTS ##
 #############
 
-print "The F5 BIG IP cookie value you entered was: \n", s, "\n"
+print "The F5 BIG IP cookie value you entered was: \n", cookie, "\n"
 print "The IP Address and Port infomration is as follows: \n", str(ipAddress) + ":" + str(port), "\n"
 
