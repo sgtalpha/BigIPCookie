@@ -8,10 +8,10 @@ I originally created this project just to practice writing python, but I wish to
 
 ## Installation
 
-Download the ipCookie.py script. 
+[Download](https://github.com/sgtalpha/BigIPCookie/archive/master.zip) the ipCookie.py script.
 
 ## Usage
-```
+```shell
 usage: ipCookie.py [-h] [-c COOKIE]
 
 optional arguments:
@@ -21,10 +21,10 @@ optional arguments:
 1: Obtain the F5 BIG-IP Cookie from the website you are testing
 
 2: Run the script with the following command, replacing the brackets with the F5 BIG-IP cookie
-```
+```shell
 python ipCookie.py -c [Cookie]
 ```
 Example: 
-```
+```shell
 python ipCookie.py -c 574728384.20480.0000
 ```
